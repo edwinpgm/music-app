@@ -1,0 +1,22 @@
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  text-align: center;
+}
+.release {
+  font-weight: 500;
+  color: rgba(0,0,0,.75);
+}
+.track {
+  margin-bottom: 0.25rem;
+  margin-top: 0.25rem;
+}
+.artist {
+  color: rgba(0,0,0,.5);
+  font-weight: 300;
+  font-size: .6;
+  text-transform: uppercase;
+}
